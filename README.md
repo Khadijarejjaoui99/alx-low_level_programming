@@ -1,8 +1,16 @@
 This repository contains all C language project.
 
-C coding style: <a href="https://github.com/holbertonschool/Betty/wiki" traget="_blank"> betty-style</a>
+## Compiler
 
-Text editor: Vim
+- GCC (GNU Compiler Collection): GCC is a popular open-source compiler used for compiling and running programs written in various programming languages, including C, C++, and Fortran. It is known for its robustness, optimization capabilities, and wide platform support.
+
+## Coding style
+
+- Projects follow the <a href="https://github.com/holbertonschool/Betty/wiki" traget="_blank">Betty coding style</a>
+
+## Text Editor
+
+- Vim: Vim is a highly configurable text editor known for its powerful editing capabilities and efficient workflow. It is popular among developers for its modal editing, which allows for fast and precise text manipulation. Vim offers a wide range of features and plugins, making it suitable for various programming and scripting tasks.
  
 <h2>0x00-hello_world </h2>
 
