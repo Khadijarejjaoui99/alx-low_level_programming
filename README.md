@@ -1,5 +1,7 @@
 This repository contains all C language project.
 
+C coding style: <a href="https://github.com/holbertonschool/Betty/wiki" traget="_blank"> betty-style</a>
+ 
 <h2>0x00-hello_world </h2>
 
 This directory contains the following files:
