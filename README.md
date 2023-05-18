@@ -11,8 +11,10 @@ This repository contains all C language project.
 ## Text Editor
 
 - Vim: Vim is a highly configurable text editor known for its powerful editing capabilities and efficient workflow. It is popular among developers for its modal editing, which allows for fast and precise text manipulation. Vim offers a wide range of features and plugins, making it suitable for various programming and scripting tasks.
- 
-<h2>0x00-hello_world </h2>
+
+## Directories and their contents
+
+<h3>0x00-hello_world </h3>
 
 This directory contains the following files:
 |File Name|Description|
@@ -25,7 +27,7 @@ This directory contains the following files:
 |5-printf.c|C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.<br> - Using  the function printf. <br> - Without using puts. <br> - The program ends with the value 0. <br> - The program gets compiled without warning when using the -Wall gcc option.|
 |6-size.c|A C program that prints the size of various types on the computer it is compiled and run on.|
 
-<h3>Advanced Tasks</h3>
+<h4>Advanced Tasks</h4>
 
 |File Name|Description|
 |---------|-----------|
