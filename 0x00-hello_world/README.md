@@ -6,4 +6,4 @@ This directory contains the following files:
 |2-assembler|A script that generates the assembly code of a C code and save it in an output file.<br>- The C file name will be saved in the variable $CFILE (For example, export CFILE=main.c)<br>- The output file should be named the same as the C file, but with the extension .s instead of .c. (Example: if the C file is main.c, the output file should be main.s)|
 |3-name|A script that compiles a C file and creates an executable named cisfun. <br> - The C file name will be saved in the variable $CFILE|
 |4-puts.c|A C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line. <br> - Using  the function puts. <br> - Without using printf. <br> - The program ends with the value 0.|
-
+|5-printf.c|C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.<br> - Using  the function printf. <br> - Without using puts. <br> - The program ends with the value 0. <br> - The program gets compiled without warning when using the -Wall gcc option.|
