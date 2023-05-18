@@ -1,6 +1,8 @@
 This repository contains all C language project.
 
 C coding style: <a href="https://github.com/holbertonschool/Betty/wiki" traget="_blank"> betty-style</a>
+
+Text editor: Vim
  
 <h2>0x00-hello_world </h2>
 
