@@ -1,4 +1,5 @@
 This directory contains the following files:
 |File Name|Description|
 |---------|-----------|
-|0-positive_or_negative.c|This program will assign a random number to the variable n each time it is executed. And it prints  whether the number stored in the variable n is positive or negative.|
+|0-positive_or_negative.c|This program will assign a random number to the variable n each time it is executed. And it prints  whether the number stored in the variable n is positive or negative. <br> - The output of this program is: <br> The number, followed by <br> * if the number is greater than 0: is positive <br> * if the number is 0: is zero <br> * if the number is less than 0: is negative <br> followed by a new line <br> Example output: -520693284 is negative|
+|1-last_digit.c|This program will assign a random number to the variable n each time it is executed. it prints he last digit of the number stored in the variable n. <br> - The output of this program is: <br> The string Last digit of, followed by n, followed by the string is, followed by <br> * if the last digit of n is greater than 5: the string and is greater than 5 <br> * if the last digit of n is 0: the string and is 0 <br> if the last digit of n is less than 6 and not 0: the string and is less than 6 and not 0 <br> followed by a new line|
