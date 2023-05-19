@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: Prints all possible different combinations of two digits.
+ * Description: Prints all possible different combinations of three digits.
  *
  * Return: Always 0 (Success)
 */
