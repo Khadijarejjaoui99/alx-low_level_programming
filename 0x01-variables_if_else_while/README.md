@@ -10,7 +10,7 @@ This directory contains the following files:
 |6-print_numberz.c|A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.(Without using any variable of type char, using  the putchar function)<br> Output: 0123456789|
 |7-print_tebahpla.c|A program that prints the lowercase alphabet in reverse, followed by a new line.(Using only putchar) <br> zyxwvutsrqponmlkjihgfedcba|
 |8-print_base16.c|A program that prints all the numbers of base 16 in lowercase, followed by a new line. (Using putchar three times in your code) <br> Output: 0123456789abcdef|
-|9-print_comb.c|A program that prints all possible combinations of single-digit numbers. <br> - Numbers are  separated by , followed by a space. <br> - Numbers are printed in ascending order.<br> - Maximum use of putchat is 4 times. <br> - Not allowed to use char data type <br> Output: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 |
+|9-print_comb.c|A program that prints all possible combinations of single-digit numbers. <br> - Numbers are  separated by , followed by a space. <br> - Numbers are printed in ascending order.<br> - Maximum use of putchat is 4 times. <br>- Not allowed to use char data type <br> Output: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 |
 
 <h4>Advanced Tasks</h4>
 
