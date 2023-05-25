@@ -18,4 +18,4 @@ This directory contains the following files:
 |File Name|Description|
 |---------|-----------|
 |100-prime_factor.c|A program that finds and prints the largest prime factor of the number 612852475143, followed by a new line. <br> Task <br> - You are allowed to use the standard library <br> - our program will be compiled with this command: gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm|
-
+|101-print_number.c|function that prints an integer.<br>Task:<br>Prototype: void print_number(int n);<br>You can only use _putchar function to print<br>You are not allowed to use long<br>You are not allowed to use arrays or pointers<br>You are not allowed to hard-code special values <br> To compile: gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 101-main.c 101-print_number.c -o 101-print_numbers|
