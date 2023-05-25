@@ -13,3 +13,9 @@ This directory contains the following files:
 |9-fizz_buzz.c|The “Fizz-Buzz test” is an interview question designed to help filter out the 99.5% of programming job candidates who can’t seem to program their way out of a wet paper bag. <br> Task: <br> Write a program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.<br>Each number or word should be separated by a space <br>You are allowed to use the standard library <br> To compile: gcc -Wall -pedantic -Werror -Wextra -std=gnu89 9-fizz_buzz.c -o 9-fizz_buzz|
 |10-print_triangle.c|A function that prints a triangle, followed by a new line.<br> Task: <br> - Prototype: void print_triangle(int size);<br> You can only use _putchar function to print <br> - Where size is the size of the triangle <br> - If size is 0 or less, the function should print only a new line <br> - Use the character # to print the triangle <br> - To compile: gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 10-main.c 10-print_triangle.c -o 10-triangles|
 
+<h3>Advanced Tasks </h3>
+
+|File Name|Description|
+|---------|-----------|
+|100-prime_factor.c|A program that finds and prints the largest prime factor of the number 612852475143, followed by a new line. <br> Task <br> - You are allowed to use the standard library <br> - our program will be compiled with this command: gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm|
+
