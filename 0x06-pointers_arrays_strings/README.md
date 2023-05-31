@@ -12,3 +12,4 @@
 |101-print_number.c| prints an integer|
 |102-magic.c| changes the value of an index of an integer array|
 |103-infinite_add.c| adds two numbers|
+|104-print_buffer.c| prints a buffer|
